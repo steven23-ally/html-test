@@ -1,0 +1,39 @@
+body {
+  background-color: yellow;
+  color: white;
+}
+div {
+  background: blue;
+}
+button {
+  background-color: #16a43a;
+}
+/* class selector */
+.btn {
+  color: white;
+}
+/* id selector */
+#btn {
+  color: red;
+}
+#btn-right {
+  background-color: green;
+  color: white;
+  padding:8px 20px;
+  margin:6px;
+  cursor: pointer;
+  border:none;
+  border-radius: 18px;
+  
+
+}
+#btn-left {
+  background-color: white;
+  color: green;
+  padding:8px 20px;
+ margin: 6px;
+ cursor:grab;
+  border:1px green;
+  border-radius:18px;
+}
+
